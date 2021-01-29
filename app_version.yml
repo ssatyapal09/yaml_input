@@ -1,0 +1,4 @@
+- name: test_app1
+  versions:
+    prod: 1.1.0
+    test: 1.1.0
